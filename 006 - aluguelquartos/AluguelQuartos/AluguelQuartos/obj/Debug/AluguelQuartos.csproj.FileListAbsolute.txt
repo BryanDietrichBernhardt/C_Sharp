@@ -1,0 +1,7 @@
+D:\estudos\C#\curso006 - aluguelquartos\AluguelQuartos\AluguelQuartos\bin\Debug\AluguelQuartos.exe.config
+D:\estudos\C#\curso006 - aluguelquartos\AluguelQuartos\AluguelQuartos\bin\Debug\AluguelQuartos.exe
+D:\estudos\C#\curso006 - aluguelquartos\AluguelQuartos\AluguelQuartos\bin\Debug\AluguelQuartos.pdb
+D:\estudos\C#\curso006 - aluguelquartos\AluguelQuartos\AluguelQuartos\obj\Debug\AluguelQuartos.csproj.AssemblyReference.cache
+D:\estudos\C#\curso006 - aluguelquartos\AluguelQuartos\AluguelQuartos\obj\Debug\AluguelQuartos.csproj.CoreCompileInputs.cache
+D:\estudos\C#\curso006 - aluguelquartos\AluguelQuartos\AluguelQuartos\obj\Debug\AluguelQuartos.exe
+D:\estudos\C#\curso006 - aluguelquartos\AluguelQuartos\AluguelQuartos\obj\Debug\AluguelQuartos.pdb
