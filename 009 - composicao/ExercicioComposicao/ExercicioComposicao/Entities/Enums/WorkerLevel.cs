@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExercicioComposicao.Entities.Enums
 {
-    enum WorkerLevel
+    enum WorkerLevel : int
     {
         Junior,
         MidLevel,
