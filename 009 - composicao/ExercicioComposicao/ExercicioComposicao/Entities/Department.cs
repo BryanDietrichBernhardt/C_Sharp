@@ -8,7 +8,7 @@ namespace ExercicioComposicao.Entities
         public Department() { }
         public Department(string name)
         {
-            Name = Name;
+            Name = name;
         }
     }
 }
