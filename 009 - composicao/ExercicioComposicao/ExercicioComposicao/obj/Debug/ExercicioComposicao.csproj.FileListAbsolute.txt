@@ -1,7 +1,0 @@
-D:\estudos\C#\Activities\009 - composicao\ExercicioComposicao\ExercicioComposicao\bin\Debug\ExercicioComposicao.exe.config
-D:\estudos\C#\Activities\009 - composicao\ExercicioComposicao\ExercicioComposicao\bin\Debug\ExercicioComposicao.exe
-D:\estudos\C#\Activities\009 - composicao\ExercicioComposicao\ExercicioComposicao\bin\Debug\ExercicioComposicao.pdb
-D:\estudos\C#\Activities\009 - composicao\ExercicioComposicao\ExercicioComposicao\obj\Debug\ExercicioComposicao.csproj.AssemblyReference.cache
-D:\estudos\C#\Activities\009 - composicao\ExercicioComposicao\ExercicioComposicao\obj\Debug\ExercicioComposicao.csproj.CoreCompileInputs.cache
-D:\estudos\C#\Activities\009 - composicao\ExercicioComposicao\ExercicioComposicao\obj\Debug\ExercicioComposicao.exe
-D:\estudos\C#\Activities\009 - composicao\ExercicioComposicao\ExercicioComposicao\obj\Debug\ExercicioComposicao.pdb
