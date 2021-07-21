@@ -20,5 +20,10 @@ namespace EnumeracaoEComposicao.Entities
         {
             return Quantity * Product.Price;
         }
+
+        public override string ToString()
+        {
+            return $"{Product.Name}, Quantity: {Quantity}, Subtotal: {SubTotal()}";
+        }
     }
 }
